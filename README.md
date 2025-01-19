@@ -67,3 +67,11 @@ Restart : Si vous tombez dans le vide, appuyez sur R. Cela vous fera réapparait
 Porte dorée : Une fois que vous avez atteint la porte dorée du jeu, maintenez la touche E pour terminer le niveau et afficher le message de victoire.
 
 Ces commandes permettent de contrôler votre personnage et d'interagir avec les éléments du jeu pour progresser. Bonne chance !
+
+
+## Résolution des problèmes
+Si vous rencontrez des problèmes pendant l'installation ou l'exécution, voici quelques solutions possibles :
+
+Problème de dépendances raylib : Assurez-vous que raylib est correctement installé et que votre environnement de développement (CMake, compilateur, etc.) peut y accéder.
+Problème de compilation avec CMake : Vérifiez que vous utilisez une version compatible de CMake et que le compilateur C++ est correctement configuré.
+Problème d'exécution : Si le jeu ne se lance pas, assurez-vous que toutes les dépendances sont installées et que la compilation a réussi sans erreur.
