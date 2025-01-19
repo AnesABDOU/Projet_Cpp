@@ -7,8 +7,11 @@ Ce projet est un jeu 2D développé en C++ utilisant la bibliothèque raylib. Ce
 Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votre machine :
 
 Git : pour cloner le dépôt.
+
 CMake : pour configurer le projet.
+
 Raylib : la bibliothèque utilisée pour le développement du jeu.
+
 Un compilateur C++ (comme GCC ou Clang) compatible avec CMake.
 
 ## Étapes d'installation
