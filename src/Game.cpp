@@ -95,11 +95,11 @@ int main() {
             {{7700, -300, 100,  10},  1, LIGHTGRAY},
             //BLOCS INVISIBLES AVANT DE FINIR LE JEU:
             //SI TROP DIFFICILE : CHANGER LIGHTGRAY EN GREEN
-            {{8500, -500, 100,  10},  1, GREEN},
-            {{8700, -600, 100,  10},  1, GREEN},
-            {{8900, -700, 100,  10},  1, GREEN},
-            {{8700, -800, 100,  10},  1, GREEN},
-            {{8900, -900, 100,  10},  1, GREEN},
+            {{8500, -500, 100,  10},  1, LIGHTGRAY},
+            {{8700, -600, 100,  10},  1, LIGHTGRAY},
+            {{8900, -700, 100,  10},  1, LIGHTGRAY},
+            {{8700, -800, 100,  10},  1, LIGHTGRAY},
+            {{8900, -900, 100,  10},  1, LIGHTGRAY},
 
             //PORTE DE FIN DE JEU
             {{8000, -1100, 50, 100},  1, GOLD},
