@@ -13,9 +13,7 @@ include_directories(include)
 
 find_package(Raylib REQUIRED)
 
-add_executable(MarioShab ${SOURCES} ${HEADERS}
-        include/Enemy.h
-        include/Score.h)
+add_executable(MarioShab ${SOURCES} ${HEADERS})
 target_link_directories(MarioShab PRIVATE include)
 
 target_link_libraries(MarioShab PRIVATE raylib)
