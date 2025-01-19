@@ -1,4 +1,4 @@
-# Jeu 2D - Mario Shab
+# Mario Shab
 
 Ce projet est un jeu 2D développé en C++ utilisant la bibliothèque raylib. Ce README fournit toutes les étapes nécessaires pour récupérer le dépôt, configurer le projet avec CMake, puis lancer le jeu.
 
