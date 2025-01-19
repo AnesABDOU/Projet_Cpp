@@ -62,7 +62,7 @@ int main() {
 
     //auto *player = new Player({400, 280});
     //moi:
-    auto *player = new Player({8000, -1000}); //standard spawn 0,0
+    auto *player = new Player({0, 0}); //standard spawn 0,0
     camera = MS::Camera(player->getPosition());
     enemies = {
             Enemy({3600, -150}, 0),
