@@ -1,2 +1,2 @@
-Il faut téléchargé la bibliotheque Raylib : 
+Il faut télécharger la bibliotheque Raylib : 
 sudo apt install libraylib-dev
