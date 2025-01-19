@@ -64,6 +64,7 @@ Flèches directionnelles : Utilisez les flèches gauche et droite pour vous dép
 Shift : Appuiez sur la touche Shift pour courir.
 Shift en l'air : Si vous êtes en l'air, maintenir Shift permettra de réaliser un saut plus long.
 Restart : Si vous tombez dans le vide, appuyez sur R. Cela vous fera réapparaitre à l'endroit d'origine.
+Enemis : Les boules violettes sont des enemis que vous pouvez manger pour vous frayer un chemin vers la sortie. Foncez leur dessus pour les tuer !
 Porte dorée : Une fois que vous avez atteint la porte dorée du jeu, maintenez la touche E pour terminer le niveau et afficher le message de victoire.
 
 Ces commandes permettent de contrôler votre personnage et d'interagir avec les éléments du jeu pour progresser. Bonne chance !
