@@ -63,6 +63,7 @@ Une fois la compilation terminée, vous pouvez lancer le jeu. Dans le répertoir
 Flèches directionnelles : Utilisez les flèches gauche et droite pour vous déplacer dans le jeu.
 Shift : Appuiez sur la touche Shift pour courir.
 Shift en l'air : Si vous êtes en l'air, maintenir Shift permettra de réaliser un saut plus long.
+Restart : Si vous tombez dans le vide, appuyez sur R. Cela vous fera réapparaitre à l'endroit d'origine.
 Porte dorée : Une fois que vous avez atteint la porte dorée du jeu, maintenez la touche E pour terminer le niveau et afficher le message de victoire.
 
 Ces commandes permettent de contrôler votre personnage et d'interagir avec les éléments du jeu pour progresser. Bonne chance !
