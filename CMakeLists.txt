@@ -11,7 +11,7 @@ file(GLOB_RECURSE HEADERS include/*.h)
 
 include_directories(include)
 
-find_package(Raylib REQUIRED)
+find_package(raylib REQUIRED)
 
 add_executable(MarioShab ${SOURCES} ${HEADERS})
 target_link_directories(MarioShab PRIVATE include)
